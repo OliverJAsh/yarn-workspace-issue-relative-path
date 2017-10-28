@@ -1,0 +1,9 @@
+{
+  "name": "@foo/config",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "request-ip": "^2.0.2"
+  },
+  "devDependencies": {}
+}
